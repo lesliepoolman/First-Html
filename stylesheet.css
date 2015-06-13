@@ -10,13 +10,14 @@ div {
   border: 2px dashed #7f007f;
 }
 p {
-	color: #CC9;
-	margin-left: 15px;
+	color: #000;
+	margin-left: 20px;
 	font-size: 20px;
 }
 
 li {
 	margin-left: 10px;
+	color: #FFF;
 }
 
 
