@@ -1,31 +1,49 @@
 h1 {
-  font-family: Trebuchet, sans-serif;
-  color: #000000;
-  float: center;
-  padding-top: 5px;
-  padding-bottom: 5px;
+	font-family: Trebuchet, sans-serif;
+	color: #CC6;
+	float: center;
+	margin-top: 10px;
 }
 
 div {
   border-radius: 5px;
   border: 2px dashed #7f007f;
 }
+p {
+	color: #CC9;
+	margin-left: 15px;
+	font-size: 20px;
+}
+
+li {
+	margin-left: 10px;
+}
+
 
 #header {
-  width: 98%;
-  height: 50px;
-  Margin-top: -10px;
-  z-index: 1
-  position: fixed;
-  background-color: #fd5f5f;
+	text-align: center;
+	width: 99.5%;
+	height: 60px;
+	Margin-top: -10px;
+ 	z-index: 1
+  	position: fixed;
+	background-color: #CC0000;
 }
 
 #right {
-  width: 98%;
-  height: 300px;
-  margin-top: 10px;
-  position: relative;
-  float: center;
-  clear: both;
-  background-color: #ff8f8f;
+	width: 95%;
+	height: 300px;
+	margin: 2px;
+	position: relative;
+	float: right;
+	background-color: #666633;
+	
+}
+
+#left {
+	position: relative;
+	width: 35px;
+	height: 300px;
+	margin: 2px;
+	background-color: #F66;
 }
